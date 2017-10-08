@@ -1,1 +1,1 @@
-# react-webpack-boilerplate
+# Up and running with React
